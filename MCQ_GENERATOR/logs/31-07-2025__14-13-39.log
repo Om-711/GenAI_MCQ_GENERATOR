@@ -1,0 +1,4 @@
+2025-07-31 14:15:44,540 - root - ERROR - Error reading file: cannot access local variable 'file' where it is not associated with a value
+2025-07-31 14:15:48,484 - root - ERROR - Error reading file: cannot access local variable 'file' where it is not associated with a value
+2025-07-31 14:18:38,812 - root - ERROR - Error reading file: error reading the PDF file
+2025-07-31 14:19:57,831 - root - ERROR - Error reading file: Why Error reading the PDF file

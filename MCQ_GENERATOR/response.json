@@ -1,0 +1,42 @@
+{
+    "1":{
+        "mcq" : "Multiple Choice Question ",
+        "options" : [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+        ],
+        "answer" : "correct answer"
+    },
+    "2":{
+        "mcq" : "Multiple Choice Question 2",
+        "options" : [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+        ],
+        "answer" : "correct answer"
+    },
+    "3":{
+        "mcq" : "Multiple Choice Question 3",
+        "options" : [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+        ],
+        "answer" : "correct answer"
+    },
+    "4":{
+        "mcq" : "Multiple Choice Question 4",
+        "options" : [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+        ],
+        "answer" : "correct answer"
+    }
+}

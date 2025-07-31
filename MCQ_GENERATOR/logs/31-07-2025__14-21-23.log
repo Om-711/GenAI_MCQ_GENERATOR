@@ -1,0 +1,5 @@
+2025-07-31 14:21:46,013 - root - ERROR - Error reading file: `run` not supported when there is not exactly one output key. Got ['quiz', 'review'].
+2025-07-31 14:23:02,552 - root - ERROR - Error reading file: Chain.invoke() missing 1 required positional argument: 'input'
+2025-07-31 14:26:46,772 - root - ERROR - Quiz data is empty or malformed.
+2025-07-31 14:28:42,384 - root - ERROR - Quiz data is empty or malformed.
+2025-07-31 14:29:50,232 - root - ERROR - Quiz data is empty or malformed.

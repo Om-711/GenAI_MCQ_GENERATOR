@@ -1,0 +1,2 @@
+2025-07-30 22:28:32,055 - root - ERROR - Error reading file: cannot access local variable 'file' where it is not associated with a value
+2025-07-30 22:29:00,671 - root - ERROR - Error reading file: cannot access local variable 'file' where it is not associated with a value
